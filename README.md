@@ -114,6 +114,7 @@ Renting a room
 * http://rightmove.co.uk/
 * http://london.en.craigslist.co.uk/roo/
 * http://airbnb.co.uk/s/london
+* http://www.uniplaces.com/london
 
 Awesome helpful mobile apps
 ---------------------
